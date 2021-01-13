@@ -3,7 +3,7 @@
 This is a collection of websites developed.
 
 ## Giselecares
-https://www.giselecares.com/
+[https://www.giselecares.com/](https://www.giselecares.com/)
 
 ### Description
 A campaign website for the presidential election of the Trinity GSU student union.
@@ -14,7 +14,7 @@ A campaign website for the presidential election of the Trinity GSU student unio
 - custom widgets for twitter and facebook feeds
 
 ## Dublinbikes
-https://yangyang9768.github.io/dublinbike-web/
+[https://yangyang9768.github.io/dublinbike-web/](https://yangyang9768.github.io/dublinbike-web/)
 
 ### Description
 A student project with codefirst girls regarding a refacing of the dublinbikes website.
