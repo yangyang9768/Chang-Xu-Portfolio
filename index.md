@@ -38,9 +38,9 @@ My employer would like to provide a personal reference, If that's needed.
 [https://www.blinklastmile.com/tracking](https://www.blinklastmile.com/tracking) 
 
 ### Skills
-- website design (Carbon Design Sytem)
+- Website design (Carbon Design Sytem)
 - Frontend Developement ( React.js, Redux.js, Next.js, React Hook Form, AJAX)
-- collaboration with market and developer team
+- collaboration with market and developer team (Slack)
 
 ## EventBrite Automation Script
 
