@@ -47,7 +47,7 @@ My employer would like to provide a personal reference, If that's needed.
 ### Description
 This a automation program built on EventBrite booking system. It automated the booking cancellation process which reduce 100 working hour in total
 
- [https://yangyang9768.github.io/TrinityBookingOperations/index.js](https://yangyang9768.github.io/TrinityBookingOperations/index.js)
+ [https://github.com/yangyang9768/TrinityBookingOperations](https://github.com/yangyang9768/TrinityBookingOperations)
 
 ### Skills
 - Node.js 
