@@ -16,8 +16,8 @@ A campaign website for the presidential election of the Trinity GSU student unio
 ## Shopmall
 
 ### Description
-A Static website built on Vue.js. This project includes Shopping Cart, LogIn, Change Address  etc
-**username:changxu
+A Static website built on Vue.js. This project includes Shopping Cart, LogIn, Change Address  etc <br>
+**username:changxu <br>
   password: 999**
   
 [https://yangyang9768.github.io/shopmall/](https://yangyang9768.github.io/shopmall/) 
@@ -33,8 +33,8 @@ A production website built on React.js. This project includes tracking page, Use
 Due to the confidential factors, I can only present the following webpage.
 My employer would like to provide a personal reference, If that's needed.
   
-[https://www.blinklastmile.com/#scopri](https://www.blinklastmile.com/#scopri) 
-[https://www.blinklastmile.com/contact](https://www.blinklastmile.com/contact) 
+[https://www.blinklastmile.com/#scopri](https://www.blinklastmile.com/#scopri) <br>
+[https://www.blinklastmile.com/contact](https://www.blinklastmile.com/contact) <br>
 [https://www.blinklastmile.com/tracking](https://www.blinklastmile.com/tracking) 
 
 ### Skills
