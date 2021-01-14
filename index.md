@@ -29,7 +29,7 @@ A Static website built on Vue.js. This project includes Shopping Cart, LogIn, Ch
 ## Blink
 
 ### Description
-A production website built on React.js. This project includes tracking page, User Dashboard  etc
+A production website built on React.js. This project includes tracking page, User Dashboard  etc  <br>
 Due to the confidential factors, I can only present the following webpage.
 My employer would like to provide a personal reference, If that's needed.
   
