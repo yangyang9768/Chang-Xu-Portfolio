@@ -66,6 +66,19 @@ A student project with codefirst girls regarding a refacing of the dublinbikes w
 - content creation (Adobe Suite)
 
 
+## Time Series Analysis of Covid Impact on the UK, SWEDEN and AUSTRALIA
+
+[https://github.com/yangyang9768/CFG-summer-project-group-4](https://github.com/yangyang9768/CFG-summer-project-group-4)
+
+### Description
+Coronavirus disease (COVID-19) is a virus-borne infection caused by the SARS-CoV-2 virus. A new coronavirus known as 2019-nCoV was discovered in Wuhan, China's Hubei province capital. People got pneumonia for no apparent reason, and existing vaccines and treatments were ineffective. The virus has been linked to human-to-human transmission. In mid-January 2020, the transmission rate (rate of infection) appeared to be increasing.
+
+### Skills
+- Python pandas/numpy/ 
+- juypter Notebook
+- Collaboration with people from 3 different nationalities
+
+
 
 
 
